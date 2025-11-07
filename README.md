@@ -1,27 +1,88 @@
-[![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)](https://myweb2002.w3spaces.com)
-<h1 align="center">Hi 👋, I'm Dilshan</h1>
-<h3 align="center">I am an undergraduate who is passionate about web development</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm Dilshan 👋</h1>
+<h3 align="center">🚀 Software Engineer | Lifelong Tech Explorer | Open Source Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamithdilshantharuka&label=Profile%20views&color=0e75b6&style=flat" alt="chamithdilshantharuka" /> </p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=650&lines=Transforming+ideas+into+reality;Building+tech+that+solves+real+problems;Innovating+beyond+the+ordinary"/>
+</p> -->
+---
 
-- 🔭 I’m currently working on **various Web Application Projects**
+## 👨‍💻 About Me  
 
-- 🌱 I’m currently learning **React JS, Node JS**
+🎓 **Software Engineering (Hons)** graduate passionate about technology since childhood.  
+💡 I love exploring **new tech**, experimenting with **creative ideas**, and **building meaningful projects**.  
+🤝 I’m open to collaborating on **open-source projects** and learning from the developer community.  
+🌱 Currently exploring **AI, Cloud Development, and Modern Web Frameworks**.  
+⚡ Fun fact: I believe that a random, wild imagination could change the world. 
 
-- 👯 I’m looking to collaborate on **Open source or any Web development Projects**
+---
+## 🌍 Connect With Me  
 
-- 📫 How to reach me **dilshanchamith99@gmail.com**
+  <div align="left">
+    <a href="https://www.linkedin.com/in/chamith-dilshan-b95034280/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamith-dilshan-linkedin" height="30" width="40" /></a>
+    <a href="https://x.com/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" height="30" width="40" alt="X"/></a>
+  </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chamith-dilshan-b95034280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamith-dilshan-b95034280/" height="30" width="40" /></a>
+---
+## 🧰 Tech Stack & Tools  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,react,vite,nodejs,express,prisma,ts,php,laravel,py,git,github,postman,tailwind,bootstrap,mysql,postgres,mongodb,eclipse,vscode,figma,androidstudio,firebase,ubuntu&theme=dark&perline=13"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamithdilshantharuka&show_icons=true&locale=en&layout=compact" alt="chamithdilshantharuka" /></p>
+## 📊 GitHub Stats  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamithdilshantharuka&show_icons=true&locale=en" alt="chamithdilshantharuka" /></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChamithDilshanTharuka&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app?user=ChamithDilshanTharuka&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamithdilshantharuka&" alt="chamithdilshantharuka" /></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamithDilshanTharuka&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+<!--
+## 🚀 Featured Projects  
+
+Here are a few projects I’ve worked on (more in pinned repos 👇):
+
+- 🔹 **Project 1:** *Brief description...* — [View Repository](https://github.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>)
+- 🔹 **Project 2:** *Brief description...* — [View Repository](https://github.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>)
+- 🔹 **Project 3:** *Brief description...* — [View Repository](https://github.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>)
+
+---
+-->
+<!--
+
+## 📈 Profile Insights  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChamithDilshanTharuka&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChamithDilshanTharuka&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChamithDilshanTharuka&theme=tokyonight"/>
+</p>
+---
+-->
+
+## 💖 Thank You  
+
+<p align="center">
+  <!-- Wave GIF emoji -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Wave Emoji"/>
+</p>
+
+<p align="center">
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Stay+curious+and+keep+building+⭐" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <!-- Waving footer banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Wave"/>
+</p>
+
