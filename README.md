@@ -36,10 +36,10 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChamithDilshanTharuka&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=ChamithDilshanTharuka&theme=tokyonight&cacheBust=1" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamithDilshanTharuka&theme=tokyo-night&hide_border=true" />
