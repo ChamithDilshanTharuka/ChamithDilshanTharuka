@@ -19,8 +19,9 @@
 ## 🌍 Connect With Me  
 
   <div align="left">
-    <a href="https://www.linkedin.com/in/chamith-dilshan-b95034280/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamith-dilshan-linkedin" height="30" width="40" /></a>
-    <a href="https://x.com/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" height="30" width="40" alt="X"/></a>
+    <a href="https://www.linkedin.com/in/chamith-dilshan-b95034280/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamith-dilshan-linkedin"       height="30" width="40" /></a>
+   &nbsp;&nbsp;&nbsp;
+     <a href="https://x.com/ChamithTharuka" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" height="30" width="40" alt="X"/></a>
   </div>
 
 ---
